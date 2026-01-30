@@ -52,16 +52,11 @@ def tim_kiem():
         print("Không tìm thấy sản phẩm")
 
 
-# ------------------------------
-# Thống kê doanh thu
-# ------------------------------
+
 def thong_ke():
     print("Tổng doanh thu:", doanh_thu)
 
 
-# ==============================
-# MENU CHÍNH
-# ==============================
 while True:
     print("\n===== MENU QUẢN LÝ KHO =====")
     print("1. Nhập hàng")
